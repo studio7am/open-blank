@@ -5,8 +5,8 @@ Open-blank
 
 ### Подготовка к работе
 
-               $ install.sh
-               $ watch.sh 
+    $ install.sh
+    $ watch.sh 
         
 
 
