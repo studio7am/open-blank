@@ -1,4 +1,4 @@
-<?php require_once(DIR_TEMPLATE.'guitar4you/config.php'); ?>
+<?php require_once(DIR_TEMPLATE.'open-blank/config.php'); ?>
 
 <!DOCTYPE html>
 <html dir="<?php echo $direction; ?>" lang="<?php echo $lang; ?>">
