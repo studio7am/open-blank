@@ -10,3 +10,4 @@ cd ..
 bitters install
 
 exit 0
+
