@@ -5,11 +5,12 @@ Open-blank
 
 #### Подготовка к работе
 
-    $ _install.sh
+    $ install.sh
 
 #### Разработка 
    
-    $ _watch.sh 
+    $ watch-dev.sh 
+     
         
 
 
