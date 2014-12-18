@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAEA,OAAQ,CACN,gBAAgB,CAAE,GAAG",
-"sources": ["dev/blocks/1_header/_index.scss"],
+"mappings": "",
+"sources": [],
 "names": [],
 "file": "style.css"
 }
