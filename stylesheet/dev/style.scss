@@ -1,9 +1,9 @@
 /* Импортируем bourbon, neat и bitters 
 ---------------------------------------*/
 
-// @import "bourbon/bourbon";
-// @import "base/base";
-// @import "neat/neat";
+@import "libs/bourbon/bourbon";
+@import "base/base";
+@import "libs/neat/neat";
 
 /*-------------------------------------*/
 
@@ -12,7 +12,7 @@
 /* Импортируем цвета
 -------------------------------------- */
 
-// @import "colors/color-me-sass";
+// @import "libs/colors/color-me-sass";
 
 /*-------------------------------------*/
 
