@@ -9,7 +9,7 @@ Open-blank
 
 #### Разработка 
    
-    $ watch-dev.sh 
+    $ watch.sh 
 
 
 #### История изменений
